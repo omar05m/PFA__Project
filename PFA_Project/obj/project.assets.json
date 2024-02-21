@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\Khalil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\PFA_Project\\PFA_Project\\PFA_Project.csproj",
+      "projectUniqueName": "C:\\Users\\Khalil\\Source\\Repos\\PFA__Project\\PFA_Project\\PFA_Project.csproj",
       "projectName": "PFA_Project",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\PFA_Project\\PFA_Project\\PFA_Project.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\PFA_Project\\PFA_Project\\obj\\",
+      "projectPath": "C:\\Users\\Khalil\\Source\\Repos\\PFA__Project\\PFA_Project\\PFA_Project.csproj",
+      "packagesPath": "C:\\Users\\Khalil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Khalil\\Source\\Repos\\PFA__Project\\PFA_Project\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Khalil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
