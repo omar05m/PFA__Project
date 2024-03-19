@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PFA__Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c4bcb3e64dbd110a6286cacc9d5719d7ee8a82e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e60d3d6d7a42c988d50265b9d6d388fb568ed1f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PFA__Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PFA__Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
