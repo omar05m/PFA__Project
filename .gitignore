@@ -282,3 +282,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/PFA__Project/obj/Debug
+/PFA__Project/obj
+/PFA__Project/obj

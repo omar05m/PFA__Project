@@ -7,21 +7,21 @@ namespace PFA__Project.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
-        public int nbrAnneExperience { get; set; }
+        public int IdArtisan { get; set; }
+        public int NbrAnneeExperience { get; set; }
         [Required(ErrorMessage ="CIN est importante !!")]
-        public string cin { get; set; }
+        [RegularExpression(@"^[A-Z]{1,2}\d{6}$", ErrorMessage = "Le numéro CIN n'est pas valide.")]
+        public string CIN { get; set; }
         [RegularExpression(@"^\+212\d{9}$", ErrorMessage = "Le numéro de téléphone doit commencer par '+212' et contenir 9 chiffres.")]
-        public string numeroTele { get; set; }
-        
-        public double prixService { get; set; }
-        public string photoCIN { get; set; }
-        public List<RendezVous> rendezVous { get;set; }
+        public string NumTele { get; set; }
+        public float PrixDeService { get; set; }
+        public string ImageDeCarteID { get; set; }
+        public virtual IList<RendezVous> RendezVous { get;set; }
+        public virtual IList<ArtisanCategorie> ArtisanCategories { get; set; } // Relation Many-to-Many avec Categories
+        public int IdUtilisateur { get; set; } // Clé étrangère pour la relation One-to-One avec Utilisateur
+        [ForeignKey("IdUtilisateur")]
+        public virtual Utilisateur Utilisateur { get; set; }
 
-        public Categorie categorie { get; set; }
-
-        public Utilisateur Utilisateur { get; set; }
-        public int UtilisateurId { get; set; }
 
 
 
