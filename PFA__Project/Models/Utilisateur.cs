@@ -22,7 +22,7 @@ namespace PFA__Project.Models
         [Required(ErrorMessage = "Ce champs est obligatoire", AllowEmptyStrings = false)]
         [DataType(DataType.Date)]
         public DateTime DateNaissance { get; set; }
-        public List<Notification> Notifications { get; set; }
+        public IList<Notification> Notifications { get; set; }
         public virtual Client? Client { get; set; }
         public virtual Artisan? Artisan { get; set; }
 
