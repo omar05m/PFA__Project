@@ -493,6 +493,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+<<<<<<< HEAD
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
@@ -527,3 +528,29 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore,visualstudio
+=======
+/PFA__Project/obj/Debug
+/PFA__Project/obj
+/PFA__Project/obj
+/PFA__Project/bin/Debug
+/PFA__Project/obj/Debug
+/PFA__Project/obj/Debug
+/PFA__Project/bin/Debug
+/.vs
+/PFA__Project/obj/Debug
+/PFA__Project/obj/Debug/net8.0
+/PFA__Project/obj/Debug/net8.0/refint
+.vs/PFA__Project/v17/.suo
+PFA__Project/bin/Debug/net8.0/PFA__Project.dll
+PFA__Project/bin/Debug/net8.0/PFA__Project.exe
+PFA__Project/bin/Debug/net8.0/PFA__Project.pdb
+PFA__Project/obj/Debug/net8.0/apphost.exe
+PFA__Project/obj/Debug/net8.0/PFA__Project.AssemblyInfo.cs
+PFA__Project/obj/Debug/net8.0/PFA__Project.AssemblyInfoInputs.cache
+PFA__Project/obj/Debug/net8.0/PFA__Project.dll
+PFA__Project/obj/Debug/net8.0/PFA__Project.pdb
+PFA__Project/obj/Debug/net8.0/PFA__Project.sourcelink.json
+PFA__Project/obj/Debug/net8.0/project.razor.vs.bin
+PFA__Project/obj/Debug/net8.0/ref/PFA__Project.dll
+PFA__Project/obj/Debug/net8.0/refint/PFA__Project.dll
+>>>>>>> 898c3121e6017fe77521672577d44acd86922872
