@@ -1,22 +1,21 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PFA__Project.Models
 {
     public class RendezVous
     {
-        public int Id { get; set; }
+        [Key]
+        public int IdRendezVous { get; set; }
         public DateTime DateRendezVous { get; set; }
         public double TauxService { get; set; }
         public string Description { get; set; }
-
-        public Artisan artisan { get; set; }
-
+        [ForeignKey("ArtisanId")]
+        public Artisan Artisan { get; set; }
         public int ArtisanId { get; set; }
-
-        public Client client { get; set; }
-
+        [ForeignKey("ClientId")]
+        public Client Client { get; set; }
         public int ClientId { get; set; }
-        
 
     }
 }
