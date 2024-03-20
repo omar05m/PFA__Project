@@ -166,7 +166,7 @@ namespace PFA__Project.Migrations
                         column: x => x.ClientId,
                         principalTable: "Clients",
                         principalColumn: "IdClient",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.NoAction);
                 });
 
             migrationBuilder.CreateIndex(
