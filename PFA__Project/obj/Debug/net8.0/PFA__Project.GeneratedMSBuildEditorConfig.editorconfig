@@ -9,851 +9,851 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PFA__Project
 build_property.RootNamespace = PFA__Project
-build_property.ProjectDir = C:\Users\Khalil\Source\Repos\PFA__Project\PFA__Project\
+build_property.ProjectDir = C:\Users\Khalil\source\repos\PFA__Project\PFA__Project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Khalil\Source\Repos\PFA__Project\PFA__Project
+build_property.MSBuildProjectDirectory = C:\Users\Khalil\source\repos\PFA__Project\PFA__Project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Account/Login.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Account/Register.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/Animation.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/Animation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXEFuaW1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/Highlight.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/Highlight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXEhpZ2hsaWdodC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/NestableList.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/NestableList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXE5lc3RhYmxlTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/Ratings.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/Ratings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXFJhdGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/Scrollbar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/Scrollbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXFNjcm9sbGJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/ScrollSpy.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/ScrollSpy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXFNjcm9sbFNweS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/SweetAlerts.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/SweetAlerts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXFN3ZWV0QWxlcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/SwiperSlider.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/SwiperSlider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXFN3aXBlclNsaWRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/AdvanceUI/Tour.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/AdvanceUI/Tour.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVVJXFRvdXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/APIKey.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/APIKey.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xBUElLZXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/BasicAction.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/BasicAction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xCYXNpY0FjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/Calendar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/Calendar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xDYWxlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/Calendarmonthgrid.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/Calendarmonthgrid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xDYWxlbmRhcm1vbnRoZ3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/Chat.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/Chat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xDaGF0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/EcommerceAction.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/EcommerceAction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xFY29tbWVyY2VBY3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/FileManager.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/FileManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xGaWxlTWFuYWdlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/Mailbox.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/Mailbox.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xNYWlsYm94LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Apps/Todo.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Apps/Todo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xUb2RvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/Errors404Alt.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/Errors404Alt.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cRXJyb3JzNDA0QWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/Errors404Basic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/Errors404Basic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cRXJyb3JzNDA0QmFzaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/Errors404Cover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/Errors404Cover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cRXJyb3JzNDA0Q292ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/Errors500.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/Errors500.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cRXJyb3JzNTAwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/LockScreenBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/LockScreenBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9ja1NjcmVlbkJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/LockScreenCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/LockScreenCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9ja1NjcmVlbkNvdmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/LogoutBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/LogoutBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9nb3V0QmFzaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/LogoutCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/LogoutCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9nb3V0Q292ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/Offline.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/Offline.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cT2ZmbGluZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/PasswordChangeBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/PasswordChangeBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUGFzc3dvcmRDaGFuZ2VCYXNpYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/PasswordChangeCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/PasswordChangeCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUGFzc3dvcmRDaGFuZ2VDb3Zlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/PasswordResetBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/PasswordResetBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUGFzc3dvcmRSZXNldEJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/PasswordResetCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/PasswordResetCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUGFzc3dvcmRSZXNldENvdmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/SignInBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/SignInBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnbkluQmFzaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/SignInCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/SignInCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnbkluQ292ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/SignUpBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/SignUpBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnblVwQmFzaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/SignUpCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/SignUpCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnblVwQ292ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/SuccessMessageBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/SuccessMessageBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU3VjY2Vzc01lc3NhZ2VCYXNpYy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/SuccessMessageCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/SuccessMessageCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU3VjY2Vzc01lc3NhZ2VDb3Zlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/TwoStepVerificationBasic.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/TwoStepVerificationBasic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cVHdvU3RlcFZlcmlmaWNhdGlvbkJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Authentication/TwoStepVerificationCover.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Authentication/TwoStepVerificationCover.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cVHdvU3RlcFZlcmlmaWNhdGlvbkNvdmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/AccordionCollapse.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/AccordionCollapse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEFjY29yZGlvbkNvbGxhcHNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Alerts.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Alerts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEFsZXJ0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Badges.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Badges.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEJhZGdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Buttons.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Buttons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEJ1dHRvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Cards.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Cards.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXENhcmRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Carousel.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXENhcm91c2VsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Colors.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Colors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXENvbG9ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Dropdowns.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Dropdowns.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXERyb3Bkb3ducy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/EmbedVideo.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/EmbedVideo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEVtYmVkVmlkZW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/General.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/General.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEdlbmVyYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Grid.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEdyaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Images.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Images.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXEltYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Links.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Links.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXExpbmtzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Lists.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Lists.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXExpc3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Mediaobject.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Mediaobject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXE1lZGlhb2JqZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Modals.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Modals.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXE1vZGFscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Notifications.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Notifications.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXE5vdGlmaWNhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Offcanvas.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Offcanvas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXE9mZmNhbnZhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Placeholders.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Placeholders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXFBsYWNlaG9sZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Progress.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Progress.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXFByb2dyZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Ribbons.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Ribbons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXFJpYmJvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Tabs.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Tabs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXFRhYnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Typography.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Typography.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXFR5cG9ncmFwaHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/BaseUI/Utilities.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/BaseUI/Utilities.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVVJXFV0aWxpdGllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartArea.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartArea.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydEFyZWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartBar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydEJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartBoxplot.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartBoxplot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydEJveHBsb3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartBubble.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartBubble.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydEJ1YmJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartCandlstick.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartCandlstick.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydENhbmRsc3RpY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartColumn.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartColumn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydENvbHVtbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartFunnel.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartFunnel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydEZ1bm5lbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartHeatmap.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartHeatmap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydEhlYXRtYXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartLine.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartLine.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydExpbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartMixed.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartMixed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydE1peGVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartPie.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartPie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFBpZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartPolarArea.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartPolarArea.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFBvbGFyQXJlYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartRadar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartRadar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFJhZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartRadialbar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartRadialbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFJhZGlhbGJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/Apexchartrangearea.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/Apexchartrangearea.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydHJhbmdlYXJlYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartScatter.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartScatter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFNjYXR0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartTimeline.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartTimeline.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFRpbWVsaW5lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/ApexchartTreemap.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/ApexchartTreemap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhjaGFydFRyZWVtYXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/Apexfunnel.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/Apexfunnel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhmdW5uZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/Apexrangearea.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/Apexrangearea.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEFwZXhyYW5nZWFyZWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/Chartjs.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/Chartjs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXENoYXJ0anMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Charts/Echarts.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Charts/Echarts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEVjaGFydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/CRM/Companies.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/CRM/Companies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JNXENvbXBhbmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/CRM/Contacts.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/CRM/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JNXENvbnRhY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/CRM/Deals.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/CRM/Deals.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JNXERlYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/CRM/Leads.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/CRM/Leads.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JNXExlYWRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Crypto/BuySell.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Crypto/BuySell.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXEJ1eVNlbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Crypto/ICOList.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Crypto/ICOList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXElDT0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Crypto/KYCApplication.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Crypto/KYCApplication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXEtZQ0FwcGxpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Crypto/MyWallet.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Crypto/MyWallet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXE15V2FsbGV0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Crypto/Orders.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Crypto/Orders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXE9yZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Crypto/Transactions.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Crypto/Transactions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3J5cHRvXFRyYW5zYWN0aW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/Analytics.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/Analytics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEFuYWx5dGljcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/CRM.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/CRM.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENSTS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/Crypto.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/Crypto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENyeXB0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/Index.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/Job.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/Job.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEpvYi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/NFT.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/NFT.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXE5GVC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Dashboard/Projects.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Dashboard/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFByb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/Checkout.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/CreateProduct.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXENyZWF0ZVByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/Customers.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/Customers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEN1c3RvbWVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/OrderDetails.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/OrderDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXE9yZGVyRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/Orders.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/Orders.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXE9yZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/ProductDetails.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/ProductDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByb2R1Y3REZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/Products.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByb2R1Y3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/SellerDetails.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/SellerDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFNlbGxlckRldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/Sellers.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/Sellers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFNlbGxlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Ecommerce/ShoppingCart.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Ecommerce/ShoppingCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFNob3BwaW5nQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/Advanced.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/Advanced.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQWR2YW5jZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/BasicElements.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/BasicElements.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQmFzaWNFbGVtZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/CheckboxsRadios.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/CheckboxsRadios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQ2hlY2tib3hzUmFkaW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/Editors.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/Editors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRWRpdG9ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/FileUploads.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/FileUploads.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRmlsZVVwbG9hZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/FormLayouts.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/FormLayouts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRm9ybUxheW91dHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/FormSelect.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/FormSelect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRm9ybVNlbGVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/InputMasks.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/InputMasks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcSW5wdXRNYXNrcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/Pickers.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/Pickers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcUGlja2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/RangeSlider.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/RangeSlider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcUmFuZ2VTbGlkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/Select2.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/Select2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcU2VsZWN0Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/Validation.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/Validation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcVmFsaWRhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Forms/Wizard.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Forms/Wizard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcV2l6YXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Home/Index.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Home/Privacy.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Icons/Boxicons.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Icons/Boxicons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcQm94aWNvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Icons/CryptoSVG.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Icons/CryptoSVG.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcQ3J5cHRvU1ZHLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Icons/Feather.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Icons/Feather.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcRmVhdGhlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Icons/LineAwesome.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Icons/LineAwesome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcTGluZUF3ZXNvbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Icons/MaterialDesign.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Icons/MaterialDesign.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcTWF0ZXJpYWxEZXNpZ24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Icons/Remix.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Icons/Remix.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcUmVtaXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Invoices/CreateInvoice.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Invoices/CreateInvoice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcQ3JlYXRlSW52b2ljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Invoices/Details.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Invoices/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Invoices/ListView.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Invoices/ListView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcTGlzdFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/Application.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/Application.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEFwcGxpY2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/CompaniesList.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/CompaniesList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXENvbXBhbmllc0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/Grid.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEdyaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/GridView.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/GridView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEdyaWRWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/JobCategories.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/JobCategories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXEpvYkNhdGVnb3JpZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/List.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/ListView.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/ListView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXExpc3RWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/NewJob.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/NewJob.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXE5ld0pvYi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/Overview.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/Overview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXE92ZXJ2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Job/Statistics.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Job/Statistics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iXFN0YXRpc3RpY3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Landing/Index.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Landing/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Landing/Job.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Landing/Job.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xKb2IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Landing/NFTLanding.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Landing/NFTLanding.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xORlRMYW5kaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Layouts/Detached.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Layouts/Detached.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xEZXRhY2hlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Layouts/Horizontal.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Layouts/Horizontal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xIb3Jpem9udGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Layouts/Hovered.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Layouts/Hovered.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xIb3ZlcmVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Layouts/TwoColumn.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Layouts/TwoColumn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0c1xUd29Db2x1bW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Maps/Google.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Maps/Google.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xHb29nbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Maps/Leaflet.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Maps/Leaflet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xMZWFmbGV0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Maps/Vector.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Maps/Vector.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xWZWN0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Collections.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Collections.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcQ29sbGVjdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/CreateNFT.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/CreateNFT.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcQ3JlYXRlTkZULmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Creators.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Creators.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcQ3JlYXRvcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/ExploreNow.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/ExploreNow.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcRXhwbG9yZU5vdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/ItemDetails.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/ItemDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcSXRlbURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/LiveAuction.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/LiveAuction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcTGl2ZUF1Y3Rpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Marketplace.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Marketplace.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcTWFya2V0cGxhY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Ranking.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/Ranking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcUmFua2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/NFTMarketplace/WalletConnect.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/NFTMarketplace/WalletConnect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTkZUTWFya2V0cGxhY2VcV2FsbGV0Q29ubmVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/ComingSoon.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/ComingSoon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcQ29taW5nU29vbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/FAQs.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/FAQs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcRkFRcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Gallery.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcR2FsbGVyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Maintenance.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Maintenance.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcTWFpbnRlbmFuY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Pricing.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Pricing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUHJpY2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/PrivacyPolicy.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/PrivacyPolicy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUHJpdmFjeVBvbGljeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/ProfileSettings.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/ProfileSettings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUHJvZmlsZVNldHRpbmdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/ProfileSimple.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/ProfileSimple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcUHJvZmlsZVNpbXBsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/SearchResults.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/SearchResults.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU2VhcmNoUmVzdWx0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Sitemap.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Sitemap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU2l0ZW1hcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Starter.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Starter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcU3RhcnRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Team.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Team.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/TermConditions.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/TermConditions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGVybUNvbmRpdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Pages/Timeline.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Pages/Timeline.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcVGltZWxpbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Projects/CreateProject.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Projects/CreateProject.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcQ3JlYXRlUHJvamVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Projects/List.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Projects/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Projects/Overview.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Projects/Overview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHNcT3ZlcnZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/Error.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_customizer.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_customizer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9jdXN0b21pemVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_footer.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_head_css.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_head_css.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkX2Nzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_menu.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9tZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_page_title.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_page_title.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wYWdlX3RpdGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_sidebar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_Template.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_Template.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZW1wbGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_TemplateGene.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_TemplateGene.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZW1wbGF0ZUdlbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_title_meta.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_title_meta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90aXRsZV9tZXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_topbar.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_topbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF90b3BiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_vendor_scripts.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_vendor_scripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF92ZW5kb3Jfc2NyaXB0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/SupportTickets/ListView.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/SupportTickets/ListView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcG9ydFRpY2tldHNcTGlzdFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/SupportTickets/TicketDetails.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/SupportTickets/TicketDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcG9ydFRpY2tldHNcVGlja2V0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tables/BasicTables.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tables/BasicTables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEJhc2ljVGFibGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tables/Datatables.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tables/Datatables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXERhdGF0YWJsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tables/GridJs.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tables/GridJs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEdyaWRKcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tables/ListJs.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tables/ListJs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXExpc3RKcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tasks/KanbanBoard.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tasks/KanbanBoard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcS2FuYmFuQm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tasks/ListView.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tasks/ListView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcTGlzdFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Tasks/TaskDetails.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Tasks/TaskDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcVGFza0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Widgets/Index.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Widgets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lkZ2V0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/_ViewImports.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/_ViewStart.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Khalil/Source/Repos/PFA__Project/PFA__Project/Views/Shared/_Layout.cshtml]
+[C:/Users/Khalil/source/repos/PFA__Project/PFA__Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hbkudvqoq1
