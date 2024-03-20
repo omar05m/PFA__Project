@@ -4016,19 +4016,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\assem\\.nuget\\packages\\": {}
+    "C:\\Users\\SuperElectro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\assem\\Desktop\\PFA\\PFA__Project\\PFA__Project\\PFA__Project.csproj",
+      "projectUniqueName": "C:\\Users\\SuperElectro\\source\\repos\\PFA_Project\\PFA__Project\\PFA__Project.csproj",
       "projectName": "PFA__Project",
-      "projectPath": "C:\\Users\\assem\\Desktop\\PFA\\PFA__Project\\PFA__Project\\PFA__Project.csproj",
-      "packagesPath": "C:\\Users\\assem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\assem\\Desktop\\PFA\\PFA__Project\\PFA__Project\\obj\\",
+      "projectPath": "C:\\Users\\SuperElectro\\source\\repos\\PFA_Project\\PFA__Project\\PFA__Project.csproj",
+      "packagesPath": "C:\\Users\\SuperElectro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SuperElectro\\source\\repos\\PFA_Project\\PFA__Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SuperElectro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4036,6 +4036,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
