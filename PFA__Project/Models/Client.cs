@@ -6,12 +6,10 @@ namespace PFA__Project.Models
     public class Client
     {
         [Key]
-        public int Id { get; set; }
-        public List<RendezVous> rendezVous { get; set;}
-
-        public Utilisateur Utilisateur { get; set; }
-
-
+        public int IdClient { get; set; }
+        public virtual IList<RendezVous> RendezVous { get; set;}
+        public virtual Utilisateur Utilisateur { get; set; }
+        [ForeignKey("IdUtilisateur")]
         public int UtilisateurId { get; set; }
 
     }
